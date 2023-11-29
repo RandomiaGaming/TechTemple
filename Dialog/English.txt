@@ -1,0 +1,23 @@
+Tech_Temple_Tech_Temple= Tech Temple
+poem_Tech_Temple_Tech_Temple_A= Tech Temple Complete!
+Tech_Temple_Credits= {>> 256}Tech Temple - Version 1.0.0 - RandomiaGaming{>>}
+techTemple_wallBounces0= In order to complete this screen you will need to master wall bounces.
+To preform a wall bounce simply walljump while dashing upwards.
+This will give Madeline a boost of upwards momentum and allow her to reach high ledges like this one.
+Keep in mind that just like regular jumps the longer you hold the jump button the higher Madeline will bounce.
+techTemple_wallBounces1= Congratulations, you did a wall bounce!
+For this next section you will need to line up Madeline before wall bouncing.
+Pro Tip: If Madeline dashes into the corner of a block the game will automatically push her arround it.
+This means that most of the time you want to be closer to the wall instead of farther away.
+techTemple_wallBounces2= That's it you have learned the basics of wall bouncing!
+Now for the real challenge... Good Luck!
+techTemple_wallBounces3= This one takes most people awhile but don't be discurraged. You have come so far and you are almost there!
+Don't give up! You got this!
+techTemple_wallBounces4= Congratulations you have now mastered wall bouncing!
+Now to learn neutral jumps...
+techTemple_neutralJumps0= This next section would be impossible if not for a glitch called the neutral jump.
+To neutral jump you first hold a direction then release that direction just long enough to walljump then immediatly after hold a direction again.
+If done correctly Madeline will walljump away from the wall and then land back on the wall higher than she started.
+If you are flying too far away from the wall then you are probably still holding a direction when you walljump.
+If you aren't landing higher than you started you are probably waiting too long after walljumping to hold a direction again.
+The goal is to hold left or right as much as possible and only to release them at the moment you press jump.
